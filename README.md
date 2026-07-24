@@ -1,1 +1,1 @@
-# Ecommerce Product Website using TypeScript..
+#  Mini Ecommerce Product Website using TypeScript
