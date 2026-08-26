@@ -1,1 +1,2 @@
-#  Mini Ecommerce Product Website using TypeScript.
+# Ecommerce Product Website using TypeScript.
+with some expensive and popular project with minimum and maximum price. And some cosmetic product , furniture, perfume ,watches and many more.
