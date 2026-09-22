@@ -1,2 +1,2 @@
-# Ecommerce Product Website using TypeScript...
-with some expensive and popular project with minimum and maximum price. And some cosmetic product , furniture, perfume ,watches and many more.
+# Ecommerce Product Website using TypeScript.
+Ecommerce website with some expensive and popular product with minimum and maximum price. And some cosmetic product , furniture, perfume ,watches and many more.
