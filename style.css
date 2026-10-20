@@ -9,6 +9,10 @@ body {
     background-color: #000000;
     color: #ffffff;
 }
+.card {
+    background-color: #ffffff;
+    color: #000000;
+}
 
 .container {
     display: flex;
